@@ -1,1 +1,1 @@
-Sitemap: https://frederikamtoft.io/SDS/sitemap.xml
+Sitemap: https://frederikamtoft.com/SDS/sitemap.xml
