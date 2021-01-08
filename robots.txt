@@ -1,1 +1,1 @@
-Sitemap: https://frederikamtoft.com/SDS/sitemap.xml
+Sitemap: https://binder2312.github.io/SDS/sitemap.xml
