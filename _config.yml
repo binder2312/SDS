@@ -14,7 +14,7 @@ github_repo: "SDS"
 
 # OPTIONAL: override baseurl and url if using a custom domain
 # Note: leave out the trailing / from this value. 
-url: "https://binder2312.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://frederikamtoft.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 ###########################################################
 #########  Special Instructions for baseurl ###############
@@ -72,7 +72,7 @@ include:
 # This specifies what badges are turned on by default for notebook posts.
 default_badges:
   github: true
-  binder: true
+  binder: false
   colab: true
 
 # Escape HTML in post descriptions
